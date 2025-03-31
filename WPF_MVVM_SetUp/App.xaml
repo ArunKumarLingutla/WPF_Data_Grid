@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF_MVVM_SetUp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_MVVM_SetUp" xmlns:Base="clr-namespace:WPF_MVVM_SetUp.Base"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Base:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Application.Resources>
+</Application>

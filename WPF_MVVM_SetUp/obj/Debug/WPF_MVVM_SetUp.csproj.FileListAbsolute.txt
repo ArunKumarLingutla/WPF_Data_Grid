@@ -1,0 +1,17 @@
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\bin\Debug\WPF_MVVM_SetUp.exe.config
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\bin\Debug\WPF_MVVM_SetUp.exe
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\bin\Debug\WPF_MVVM_SetUp.pdb
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.csproj.AssemblyReference.cache
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\MainWindow.g.cs
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\App.g.cs
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp_MarkupCompile.cache
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp_MarkupCompile.lref
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\App.baml
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\MainWindow.baml
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.g.resources
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.Properties.Resources.resources
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.csproj.GenerateResource.cache
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.csproj.CoreCompileInputs.cache
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.exe
+C:\Users\arunk\source\repos\WPF_MVVM_SetUp\WPF_MVVM_SetUp\obj\Debug\WPF_MVVM_SetUp.pdb
