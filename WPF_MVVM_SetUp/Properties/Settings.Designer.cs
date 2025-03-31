@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WPF_MVVM_SetUp.Properties
+namespace WPF_Data_Grid.Properties
 {
 
 

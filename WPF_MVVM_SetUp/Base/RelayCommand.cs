@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace WPF_MVVM_SetUp.Base
+namespace WPF_Data_Grid.Base
 {
     public class RelayCommand : ICommand
     {

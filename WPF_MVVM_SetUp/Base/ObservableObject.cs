@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace WPF_MVVM_SetUp.Base
+namespace WPF_Data_Grid.Base
 {
 
     public class ObservableObject : INotifyPropertyChanged

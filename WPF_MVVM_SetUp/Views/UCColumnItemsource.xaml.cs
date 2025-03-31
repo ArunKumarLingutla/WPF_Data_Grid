@@ -14,17 +14,18 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using WPF_Data_Grid.ViewModels;
 
-namespace WPF_Data_Grid
+namespace WPF_Data_Grid.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for UCColumnItemsource.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class UCColumnItemsource : UserControl
     {
-        public MainWindow()
+        public UCColumnItemsource()
         {
             InitializeComponent();
-            DataContext=MainWindowVM.Instance;
+            DataContext = ColumnItemsourceVM.Instance;
+            DataGrid1.ItemsSource=ColumnItemsourceVM.LoadDataGrid();
         }
     }
 }

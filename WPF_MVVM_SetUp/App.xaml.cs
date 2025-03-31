@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPF_MVVM_SetUp
+namespace WPF_Data_Grid
 {
     /// <summary>
     /// Interaction logic for App.xaml

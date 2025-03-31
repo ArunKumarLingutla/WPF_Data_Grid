@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Data;
 using System.Windows;
 
-namespace WPF_MVVM_SetUp.Base
+namespace WPF_Data_Grid.Base
 {
     public class BooleanToVisibilityConverter : IValueConverter
     {
