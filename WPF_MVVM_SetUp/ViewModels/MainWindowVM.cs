@@ -39,14 +39,20 @@ namespace WPF_Data_Grid.ViewModels
         }
 
         public RelayCommand CMDColumnItemSource { get; }
+        public RelayCommand CMDAddColumsCodeBehind { get; }
         private void ColumnItemsource(object parm)
         {
             CurrentPanel = new UCColumnItemsource();
+        }
+        private void AddColumnsCodeBehind(object parm)
+        {
+            CurrentPanel = new UCAddColumsFromCodeBehind();
         }
 
         public MainWindowVM()
         {
             CMDColumnItemSource = new RelayCommand(ColumnItemsource);
+            CMDAddColumsCodeBehind = new RelayCommand(AddColumnsCodeBehind);
         }
         
     }

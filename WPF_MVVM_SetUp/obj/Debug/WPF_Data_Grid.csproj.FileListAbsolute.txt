@@ -17,3 +17,5 @@ C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\WPF_Data_Grid
 C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\WPF_Data_Grid.csproj.CoreCompileInputs.cache
 C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\WPF_Data_Grid.exe
 C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\WPF_Data_Grid.pdb
+C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\Views\UCAddColumsFromCodeBehind.g.cs
+C:\Users\arunk\source\repos\WPF_Data_Grid\WPF_MVVM_SetUp\obj\Debug\Views\UCAddColumsFromCodeBehind.baml

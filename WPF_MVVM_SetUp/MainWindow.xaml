@@ -12,8 +12,9 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Grid.Row="0">
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
             <Button Content="Column IS" Command="{Binding CMDColumnItemSource}"/>
+            <Button Content="Column IS" Command="{Binding CMDAddColumsCodeBehind}"/>
         </StackPanel>
         <ContentControl Grid.Row="1" Content="{Binding CurrentPanel}"/>
     </Grid>
